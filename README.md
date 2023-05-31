@@ -29,7 +29,7 @@ https://aliceyaroslavtseva.pythonanywhere.com/
 - Почта для связи: yaroslavtsevaalisa@yandex.ru
 
 ---
-### 4. [👾Технологии] <a id=4></a>
+### 4. 👾Технологии <a id=4></a>
 
 - Python 3
 - DRF (Django REST Framework)
@@ -53,7 +53,7 @@ https://aliceyaroslavtseva.pythonanywhere.com/
 <br>
 
 ---
-### 5. [💻Инструменты] <a id=5></a>
+### 5. 💻Инструменты <a id=5></a>
 
 - Руки, ноутбук, клавиатура
 - VSCode
